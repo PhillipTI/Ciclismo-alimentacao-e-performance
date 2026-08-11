@@ -42,22 +42,20 @@ Nesta seção, documenta-se o processo de desenvolvimento e refino das instruç�
 
 ### Cicatrizes de Prompt:
 
-> *   *Qual foi a maior dificuldade que você encontrou para fazer a IA responder o que você queria?*
-    A principal doficuldade ao utilizar a IA foi a tentativa de instruir e focar as respostas geradas no resultado esperado, sendo algumas delas generalizadas e algumas vezes soltas, sem coneção.
-    
-> *   *Houve alguma resposta incorreta ou imprecisa (alucinação) que você teve que corrigir limitando o contexto do prompt?*
-    Sobre alucinações não tive esse tipo de problema, as respostas as vezes, como citado anteriormente, foram vagas, mas sempre dentro do assunto solicitado.
+* **Qual foi a maior dificuldade que você encontrou para fazer a IA responder o que você queria?**  
+  A principal dificuldade ao utilizar a IA foi a tentativa de instruir e focar as respostas geradas no resultado esperado, sendo algumas delas generalizadas e algumas vezes soltas, sem conexão.
 
-> *   *Registre aqui as suas perguntas estratégicas reais e como você as reformulou.*
-    Como sou formado em Educação Física e praticante do ciclismo por anos, meu interesse era aumentar o copnhecimento no esporgte, bem como os treinos e performance em treinos cocorrentes de musculação e ciclismo. 
-    Sendo assim, algumas perguntas formuladas foram:
+* **Houve alguma resposta incorreta ou imprecisa (alucinação) que você teve que corrigir limitando o contexto do prompt?**  
+  Sobre alucinações não tive esse tipo de problema, as respostas às vezes, como citado anteriormente, foram vagas, mas sempre dentro do assunto solicitado.
 
-    - "Quais caracterísiticas dos treinos concorrentes para a performance no ciclismo, utilizando a musculação, são mais recomendadas?"
-    - "Quais alimentos conter no pré e pós treino de ciclismo e/ou academia?"
-    - "O que evitar duarante o treino para a perda ou redução da performance nos teeinos concorrentes de musculação e ciclismo?"
-    - "Indique uma estrutura de treino para musculação e ciclismo bem como intervalos a semana para descanso"
+* **Registre aqui as suas perguntas estratégicas reais e como você as reformulou.**  
+  Como sou formado em Educação Física e praticante do ciclismo por anos, meu interesse era aumentar o conhecimento no esporte, bem como os treinos e performance em treinos concorrentes de musculação e ciclismo.  
+  Sendo assim, algumas perguntas formuladas foram:
 
----
+  - *"Quais características dos treinos concorrentes para a performance no ciclismo, utilizando a musculação, são mais recomendadas?"*
+  - *"Quais alimentos conter no pré e pós treino de ciclismo e/ou academia?"*
+  - *"O que evitar durante o treino para a perda ou redução da performance nos treinos concorrentes de musculação e ciclismo?"*
+  - *"Indique uma estrutura de treino para musculação e ciclismo bem como intervalos na semana para descanso"*
 
 ## 4. Miniguia de Estudo (Entrega Final)
 
