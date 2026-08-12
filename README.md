@@ -107,4 +107,5 @@ Quais são os principais exercícios multiarticulares de cadeia cinética fechad
 Crie uma planilha de sugestões de refeições práticas de pré-treino imediato (1h a 2h antes) e de recuperação imediata (proporção 4:1) pós-treino baseada estritamente nos alimentos curados nas minhas fontes, listando a função metabólica de cada ingrediente.
 ```
 
+*link para do Gemine Notebook: [https://notebook.google.com/notebook/a2931270-35aa-4940-996a-c2205abdaae3](https://notebook.google.com/notebook/a2931270-35aa-4940-996a-c2205abdaae3)
 
